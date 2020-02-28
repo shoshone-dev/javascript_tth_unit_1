@@ -92,7 +92,7 @@ colorRefresh();
 arrQuote = printQuote();
 setTimeout(function() {
   location.reload();
-}, 4000);
+}, 7000);
 /***
  * click event listener for the print quote button
  * DO NOT CHANGE THE CODE BELOW!!
